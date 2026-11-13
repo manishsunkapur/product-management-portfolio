@@ -50,4 +50,3 @@ Do not interpret a small moderated sample as proof of business impact. Use the f
 ## Prototype exit criteria
 
 Move to a build-ready specification only when schedulers understand the comparison, can identify material impacts, and can tell whether a proposal is current and applied; open safety, permissions, and data questions are documented; and Engineering confirms the proposed behavior is feasible. If users need multiple ranked options or different explanations, revise the scope before development.
-

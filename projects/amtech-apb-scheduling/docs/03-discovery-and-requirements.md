@@ -102,4 +102,3 @@ Before an item enters a sprint, confirm the user and outcome, user evidence, bus
 - Use **5 Whys** to investigate an individual event, then triangulate.
 - Use an **Opportunity Solution Tree** to organize validated opportunities, options, and experiments.
 - Gather requirements from workflows, rules, exceptions, data, and roles—not only from requested features.
-

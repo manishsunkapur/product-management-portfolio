@@ -93,4 +93,3 @@ A story is ready when its user need and outcome are evidenced, behavior and edge
 - Use **INVEST** as a story-quality checklist: independent where practical, negotiable, valuable, estimable, small, and testable. It is a guide, not a reason to split work artificially.
 - Use **Given / When / Then** to make examples and acceptance behavior clear, including failure and permission cases.
 - Acceptance criteria define observable behavior; QA test design and technical design still require collaboration with Engineering and QA.
-

@@ -57,4 +57,3 @@ If discovery confirms that understanding and acting on downtime-driven reschedul
 ## Decision gate
 
 Proceed to a prototype only if discovery confirms a repeated user need, the current product does not already solve it adequately for the target workflow, required data can be trusted, and the outcome can be measured safely in a customer pilot. Otherwise, revise the problem statement or select a different validated opportunity.
-

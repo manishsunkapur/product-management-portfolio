@@ -39,4 +39,3 @@ The exact customer count, duration, and feature flags should be chosen with Amte
 - User guidance and release notes ready.
 - Pilot owner, escalation path, and review cadence set.
 - Success thresholds and stop conditions agreed before rollout.
-

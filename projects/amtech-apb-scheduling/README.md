@@ -45,4 +45,3 @@ The first prototype includes a rationale panel, apply/adjust/defer actions, and 
 ## Product fit
 
 Amtech’s published Product Owner II role centers on automated scheduling across labeling and corrugated ERP products. Its public APB materials describe downtime-driven rescheduling, making this a relevant area to explore without assuming APB has a gap. [Role context](https://job-boards.greenhouse.io/amtechsoftware/jobs/4381512009) · [APB product context](https://www.amtechsoftware.com/solutions/manufacturing-execution/converting-scheduling/)
-

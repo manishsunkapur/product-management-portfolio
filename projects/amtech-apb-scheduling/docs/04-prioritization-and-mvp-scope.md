@@ -45,4 +45,3 @@ Estimate the customer cost of the validated problem using customer evidence: eve
 - Use **RICE** = (Reach × Impact × Confidence) ÷ Effort when there is credible data for reach and effort and comparable opportunities. Here, those inputs are not yet known, so the work sample intentionally avoids a fabricated RICE score.
 - Use **MoSCoW** to make the validated MVP boundary visible: Must, Should, Could, Won’t for now. It is a scope conversation, not a substitute for comparing strategic opportunities.
 - Use the **Opportunity Solution Tree** during discovery to link an outcome to opportunities and experiments; use prioritization after those opportunities are better evidenced.
-

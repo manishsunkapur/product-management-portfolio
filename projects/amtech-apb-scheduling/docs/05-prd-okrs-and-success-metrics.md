@@ -61,4 +61,3 @@ Before the pilot, agree with each customer on the event start/end definitions, a
 ## Decision rule
 
 Expand only if the primary recovery measure improves against baseline and delivery, feasibility, data freshness, and schedule-stability guardrails remain within agreed limits. Revise if users value the concept but the workflow or explanations are weak. Stop or redirect if the problem is uncommon, data cannot be trusted, or operational risk rises.
-

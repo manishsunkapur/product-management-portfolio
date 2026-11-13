@@ -47,4 +47,3 @@ Report each transition and elapsed time, not only proposal generation or screen 
 ## Iteration cadence
 
 Review pilot data and customer feedback with Product, Engineering, UX, QA, Support, Implementation, and Analytics on an agreed cadence. Convert repeated issues into backlog items, update assumptions and documentation, and make an explicit expand/revise/stop recommendation. Revisit the objective and metric definitions if customer workflows reveal that another outcome is more important.
-

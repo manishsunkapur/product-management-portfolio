@@ -43,4 +43,3 @@ This objective will be revised after customer discovery and alignment with Amtec
 - Use **OKRs** to connect the quarterly objective to measurable customer outcomes.
 - Use **SMART** as a quality check for a key result: specific, measurable, achievable, relevant, and time-bound.
 - Treat company-level vision and quarterly strategy as context; feature-level OKRs are hypotheses until discovery and baseline data support them.
-

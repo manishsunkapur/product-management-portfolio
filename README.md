@@ -20,4 +20,3 @@ Independent product work samples focused on customer problems, clear decisions, 
 - Keep detailed artifacts organized inside each project folder.
 
 > Amtech work sample is an independent concept using fictional data. It does not represent Amtech product behavior or customer results.
-
